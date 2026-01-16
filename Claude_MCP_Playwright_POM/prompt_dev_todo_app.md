@@ -1,0 +1,1 @@
+Develop a web application for todo app with only frontend implementation using react.js and no api implementation. Add features to add, delete,list tasks. Add a few default tasks. Do not add test cases. Do not run plan mode. Create all required files. Install application. Do not run the dev server.
